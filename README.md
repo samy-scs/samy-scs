@@ -9,7 +9,7 @@
 
 ## Sobre mim
 
-Sou formada em **Gestão de Recursos Humanos** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**, direcionando minha carreira para a área de tecnologia.
+Sou formado em **Gestão de Recursos Humanos** e atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)**, direcionando minha carreira para a área de tecnologia.
 
 Minha experiência profissional nas áreas administrativa, financeira, RH, atendimento e Back Office desenvolveu competências como organização, análise de informações, resolução de problemas, acompanhamento de processos e adaptação a diferentes sistemas.
 
