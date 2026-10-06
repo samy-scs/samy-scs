@@ -1,4 +1,4 @@
-# Hi there, I'm Samila Souza! 👋
+# Hi there, I'm Samila! 👋
 
 > **Gestão de Recursos Humanos 🤝 & Análise e Desenvolvimento de Sistemas 💻**  
 > *Conectando a gestão de pessoas e processos ao desenvolvimento de soluções tecnológicas eficientes.*
